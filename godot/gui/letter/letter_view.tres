@@ -1,8 +1,0 @@
-[gd_resource type="Theme" load_steps=2 format=3 uid="uid://bpgsdw6mshxrl"]
-
-[ext_resource type="FontFile" uid="uid://dhooi7avsl81h" path="res://gui/architex.ttf" id="1_4ir5w"]
-
-[resource]
-default_font = ExtResource("1_4ir5w")
-default_font_size = 36
-RichTextLabel/colors/default_color = Color(0.0235294, 0, 0.807843, 1)
