@@ -1,6 +1,6 @@
 Play the [browser build](https://niposch.de/ludum-dare-54/) · [web deployment notes](docs/web-deployment.md).
 
-# Ludum Dare 54
+# A Living Place in Limited Space
 Our project for [Ludum Dare 54](https://ldjam.com/).
 
 # Conventions
