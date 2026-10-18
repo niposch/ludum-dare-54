@@ -18,3 +18,7 @@ python -m http.server --directory build/web 8080
 ```
 
 Open http://localhost:8080/ rather than the HTML file directly. Before publishing changes, verify menu/gameplay and console errors in a browser. A successful export alone is not a play test.
+
+## Verification — 18 October 2026
+
+Verified public runtime `47ffade` in successful Pages run `39165016353` on 2026-10-18: menu, opening letter, tutorial and card preview loaded in Chromium without new errors. The old isolation error was resolved. This is a startup/interaction check, not a completed playthrough.
